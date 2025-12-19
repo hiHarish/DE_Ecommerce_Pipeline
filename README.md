@@ -92,6 +92,6 @@ This repository is designed to:
 
 ## 👤 Author
 
-**Your Name**  
+**Harish Kumar**  
 Data Engineer | SQL | BigQuery | Cloud  
-LinkedIn: <your-link>
+LinkedIn: https://www.linkedin.com/in/harishpeddi/
